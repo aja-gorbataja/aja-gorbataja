@@ -14,6 +14,3 @@
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/aja-gorbataja/anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
